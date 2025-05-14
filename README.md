@@ -170,10 +170,6 @@ Returns the estimated property price.
 - Implement advanced ML algorithms
 - Add map-based visualization
 
-## Contributors
-
-- Your Name (@yourusername)
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
